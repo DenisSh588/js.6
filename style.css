@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button_container{
+    padding: 20px 40px;
+    background: #000;
+    color: #fff;
+    font-size: 40px;
+}
